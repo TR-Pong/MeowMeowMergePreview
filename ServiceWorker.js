@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-MeowMeowMerge-1.0";
 const contentToCache = [
     "Build/MMMBuild.loader.js",
-    "Build/MMMBuild.framework.js.br",
-    "Build/MMMBuild.data.br",
-    "Build/MMMBuild.wasm.br",
+    "Build/MMMBuild.framework.js.unityweb",
+    "Build/MMMBuild.data.unityweb",
+    "Build/MMMBuild.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
